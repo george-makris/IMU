@@ -1,0 +1,6 @@
+#Excluding Jupyter notbooks rule.
+*.ipynb
+
+#Excluding csv files.
+*.csv
+
